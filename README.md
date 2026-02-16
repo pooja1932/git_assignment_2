@@ -5,4 +5,4 @@ Semester - Fourth
 
 Updates by Swati Singh (Collaborator)
 ## Student Deatils
-for conflict task 6 
+conflict resolved
