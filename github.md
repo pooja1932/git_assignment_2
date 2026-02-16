@@ -12,3 +12,5 @@ GitHub is a web-based platform for version control and collaboration. Below are 
 8. **GitHub Pages** – Host static websites directly from repositories.
 9. **Code Review** – Collaborate and suggest improvements before merging.
 10. **Security Alerts** – Get notified about vulnerabilities in dependencies.
+
+11.**Github Codespaces** - added new documentation
